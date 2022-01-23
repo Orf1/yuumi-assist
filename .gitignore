@@ -1,0 +1,5 @@
+# Project exclude paths
+/yuumi-assist-client/.gradle/
+/yuumi-assist-client/build/
+/yuumi-assist-server/.gradle/
+/yuumi-assist-server/build/

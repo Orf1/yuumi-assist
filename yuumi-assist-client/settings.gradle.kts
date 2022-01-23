@@ -1,0 +1,1 @@
+rootProject.name = "yuumi-assist-client"
