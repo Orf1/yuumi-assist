@@ -21,6 +21,17 @@ Control Keys:
 Mouse movement is mirrored from the server to the client. Also takes in account different monitor sizes and automatically scales it.
 
 
-**Not 100% sure, but I believe this does not go against Riot Games tos since it is not playing for you, just mirroring imput commands from one pc to another.**
-
 # Use this program at your own risk. 
+
+Since it is you taking the actions, not the program automatically, I don't believe it breaks tos, but use with caution.
+
+Taken from https://support-leagueoflegends.riotgames.com/hc/en-us/articles/225266848-Third-Party-Applications  ->
+```
+"We don’t like applications that provide measurable player advantage. We’d like to set fair expectations by calling out some features that definitely aren’t okay. Some examples of measurable player advantage:
+
+Exposing information that’s intentionally obfuscated (cooldowns or timers)
+Taking actions on your behalf (botting or scripting)
+Drawing conclusions for you (predicting enemy positions)
+Altering your field of intelligence (zoomhacks or global ult alerts)"
+```
+
