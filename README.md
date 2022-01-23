@@ -21,6 +21,6 @@ Control Keys:
 Mouse movement is mirrored from the server to the client. Also takes in account different monitor sizes and automatically scales it.
 
 
-Not 100% sure, but I believe this does not go against Riot Games tos since it is not playing for you, just mirroring imput commands from one pc to another.
+**Not 100% sure, but I believe this does not go against Riot Games tos since it is not playing for you, just mirroring imput commands from one pc to another.**
 
-Use this program at your own risk. 
+# Use this program at your own risk. 
